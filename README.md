@@ -32,8 +32,8 @@ The objective of this project was to answer the following business questions:
 
 ## Tools Used
 
-- SQL – Data Cleaning and Analysis
-- Microsoft Excel – Data Preparation
+- Microsoft Excel– Data Cleaning and Analysis
+- Python – Data Preparation
 - Tableau – Data Visualization
 
 ---
