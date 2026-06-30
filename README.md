@@ -115,7 +115,7 @@ Superstore-Sales-Analysis
 
 ## Dashboard Preview
 
-![Dashboard](Sdashboard.png)
+![Dashboard](Superstore-dashboard.png)
 
 ---
 
